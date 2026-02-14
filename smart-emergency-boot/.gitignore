@@ -1,0 +1,29 @@
+# Maven
+target/
+*.jar
+*.war
+*.ear
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.properties
+
+# Eclipse / STS
+.classpath
+.project
+.settings/
+.factorypath
+bin/
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Logs
+*.log
